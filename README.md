@@ -10,16 +10,8 @@
 As a web developer, my mission is to craft user-centric applications that seamlessly blend aesthetics with functionality. Trained at OpenClassrooms, my skills span from front-end development (Javascript, React, HTML, CSS) to robust back-end solutions (Node.js, MongoDB, RESTful APIs). My unique perspective, shaped by a rich background in international marketing, fuels my commitment to prioritizing user needs.
 
 ### 🎓 Education
-- **Web Developer Degree, OpenClassrooms (Nov 2022 - Aug 2023)**
-  - Completed an intensive program focused on web development, gaining expertise in both front-end and back-end technologies.
-  - Successfully obtained the RNCP Level 5 Diploma, validating skills in web development and integration.
-- **Engineer's Degree in Biomedical/Medical Engineering, Polytech Lyon Engineering School (2013 - 2016)**
-  - Graduated with a strong foundation in biomedical engineering
-
-### 💼 Experience
-- **Global Product Manager** at MicroPort CRM (Jan 2017 - Sept 2022)
-  - Led global marketing campaigns and managed product launches.
-  - Designed intuitive interfaces resulting in a 25-30% reduction in programming time for medical professionals.
+- Web Developer Degree, OpenClassrooms, Aug 2023
+- Engineer's Degree in Biomedical/Medical Engineering, Polytech Lyon Engineering School, 2016
   
 ### 🎨 Hobbies
 - 🎨 Painting & Drawing
