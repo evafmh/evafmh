@@ -58,7 +58,7 @@ As a web developer, my mission is to craft user-centric applications that seamle
 ### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/eva-famechon/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://evafmh.github.io/MyPortfolio/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Portfolio" height="40" width="40" /></a>
+  <a href="https://evafamechon.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/portfolio.png" alt="Portfolio" height="40" width="40" /></a>
   <a href="mailto:eva.famechon@outlook.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/email.png" alt="Email" height="40" width="40" /></a>
 </p>
 
